@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AstroApp</string>
+    <string name="receber_notifica_o">Receber notificação</string>
+    <string name="notification">Notification</string>
+    <string name="pergunta_final">Pergunta final</string>
+    <string name="plut_o_um_planeta">Plutão é um planeta?</string>
+</resources>
